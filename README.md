@@ -14,7 +14,7 @@ Prerequisites: The resource files should be downloaded from CTD, and NDF-RT. Whi
 The entire project should be pulled into Java IDE, such as eclipse. The execution of the project starts from main method within each package and documented clearly.  
   
 ---- COMPILE AND RUN ON THE COMMAND LINE ----  
-Processing includes Java programs and Linux commands. Please see Documentation/Disease_drug_association.docx.  
+Processing includes Java programs and Linux commands. Please see https://github.com/stewart-lab/Expert_curated_disease_drug_associations/tree/master/Documentation/Disease_drug_association.docx.  
 
 Java version used for development: JavaSE-1.8   
 
